@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Vaishali Survase | Aspiring Data Analyst
 
-<!--
-**vishh63/vishh63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Passionate about solving real-world business problems through data.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Python, SQL
+- **Tools**: Excel, Power BI, Jupyter Notebook
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Concepts**: Data Cleaning, EDA, Data Visualization, Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- 📌 Zomato Dataset EDA (Python)
+- 📌 Power BI Sales Dashboard
+- 📌 HR Analytics (Excel Dashboard)
+- 📌 Titanic Survival Prediction (EDA + Visualization in Python)
+
+## 📫 Connect with Me
+- 📧 Email: surwasevaishali595@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishali-s-579a672b8/)
+- 🌐 [GitHub Projects](https://github.com/vish63?tab=repositories)
+
+> "I don’t just analyze data, I tell stories with it."
